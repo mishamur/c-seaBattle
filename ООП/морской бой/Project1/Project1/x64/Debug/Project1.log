@@ -1,0 +1,7 @@
+﻿  GameField.cpp
+c:\users\pio\desktop\с++ черновик\ооп\морской бой\project1\project1\gamefield.cpp(26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ship.cpp
+  Source.cpp
+c:\users\pio\desktop\с++ черновик\ооп\морской бой\project1\project1\source.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Project1.vcxproj -> C:\Users\PiO\Desktop\с++ черновик\ООП\морской бой\Project1\x64\Debug\Project1.exe
